@@ -33,11 +33,13 @@ jobs:
           username: ubuntu
           key:      ${{ secrets.EC2_SSH_KEY }}
           script: |
+            echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}' > /home/ubuntu/serviceAccountKey.json
             docker pull ${{ secrets.DOCKER_USERNAME }}/assessai-api:latest
             docker stop assessai-api || true
             docker rm assessai-api || true
             docker run -d \
               --name assessai-api \
               --env-file /home/ubuntu/assessai-api.env \
+              -v /home/ubuntu/serviceAccountKey.json:/app/src/config/serviceAccountKey.json \
               -p 5001:5001 \
               ${{ secrets.DOCKER_USERNAME }}/assessai-api:latest
