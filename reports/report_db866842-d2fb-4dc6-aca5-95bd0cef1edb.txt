@@ -1,0 +1,52 @@
+============================================================
+ASSESSMENT REPORT — AssessAI
+============================================================
+Student : rethicccc
+Email   : student1@gmail.com
+Date    : 30/4/2026, 12:52:22 am
+------------------------------------------------------------
+TOTAL SCORE : 1.5 / 15
+MCQ Score   : 1 / 5
+Para Score  : 0.5 / 10
+============================================================
+
+SECTION A — MCQ RESULTS
+
+Q1. What is the chemical formula of ethanol, the type of alcohol found in alcoholic beverages?
+   Student Answer : CH3OH
+   Correct Answer : C2H5OH
+   Result         : ✗ Wrong
+
+Q2. Which organ is primarily responsible for metabolizing alcohol in the human body?
+   Student Answer : Kidneys
+   Correct Answer : Liver
+   Result         : ✗ Wrong
+
+Q3. What is the legal blood alcohol concentration (BAC) limit for driving in most countries?
+   Student Answer : 0.15%
+   Correct Answer : 0.08%
+   Result         : ✗ Wrong
+
+Q4. Which of the following is NOT a short-term effect of alcohol consumption?
+   Student Answer : Slowed reaction time
+   Correct Answer : Liver cirrhosis
+   Result         : ✗ Wrong
+
+Q5. What is the process called by which sugars are converted into alcohol?
+   Student Answer : Fermentation
+   Correct Answer : Fermentation
+   Result         : ✓ Correct
+
+============================================================
+
+SECTION B — PARAGRAPH RESULTS
+
+Q1. Discuss the long-term health effects of excessive alcohol consumption on the human body. Include effects on at least three major organ systems and explain the social implications of alcohol abuse.
+   Student Answer : alcohol causes cancer
+   Score          : 0.5 / 10
+   Feedback       : The answer is extremely minimal and inadequate. While the student correctly identifies that alcohol can cause cancer (which relates to point 4 - digestive system/cancer risk), this is only a fragment of one key point. The answer fails to discuss three major organ systems as required, provides no explanation or detail, and completely omits the social implications. The response does not meet the basic requirements of the question.
+   AI Confidence  : 95%
+
+============================================================
+END OF REPORT
+============================================================

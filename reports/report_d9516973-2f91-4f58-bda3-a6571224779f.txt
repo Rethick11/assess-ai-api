@@ -1,0 +1,64 @@
+============================================================
+ASSESSMENT REPORT — AssessAI
+============================================================
+Student : User two
+Email   : student2@gmail.com
+Date    : 6/5/2026, 5:31:35 pm
+------------------------------------------------------------
+TOTAL SCORE : 0 / 35
+MCQ Score   : 0 / 5
+Para Score  : 0 / 30
+============================================================
+
+SECTION A — MCQ RESULTS
+
+Q1. Which of the following is NOT a common health risk associated with regular consumption of junk food?
+   Student Answer : No answer
+   Correct Answer : Improved bone density
+   Result         : ✗ Wrong
+
+Q2. What is the primary reason junk foods are considered unhealthy?
+   Student Answer : No answer
+   Correct Answer : They are high in calories but low in nutritional value
+   Result         : ✗ Wrong
+
+Q3. Which ingredient found in most junk foods can lead to high blood pressure when consumed in excess?
+   Student Answer : No answer
+   Correct Answer : Sodium
+   Result         : ✗ Wrong
+
+Q4. Trans fats, commonly found in junk food, are particularly harmful because they:
+   Student Answer : No answer
+   Correct Answer : Increase bad cholesterol and decrease good cholesterol
+   Result         : ✗ Wrong
+
+Q5. Which of the following is considered a healthier alternative to junk food snacking?
+   Student Answer : No answer
+   Correct Answer : Fresh fruits and nuts
+   Result         : ✗ Wrong
+
+============================================================
+
+SECTION B — PARAGRAPH RESULTS
+
+Q1. Discuss the impact of junk food consumption on children's health and academic performance. What measures can parents and schools take to promote healthier eating habits?
+   Student Answer : No answer provided.
+   Score          : 0 / 10
+   Feedback       : No answer was provided by the student. Therefore, no marks can be awarded as none of the required key points were addressed.
+   AI Confidence  : 100%
+
+Q2. Explain why junk foods are often described as 'addictive' and analyze the role of food companies in making these products appealing to consumers.
+   Student Answer : No answer provided.
+   Score          : 0 / 10
+   Feedback       : No answer was provided by the student. A score of 0 is awarded as none of the required key points were addressed. To earn marks, the student would need to discuss topics such as how sugar/salt/fat affect the brain, marketing strategies, food additives, advertising tactics, and economic accessibility of junk food.
+   AI Confidence  : 100%
+
+Q3. Evaluate the long-term consequences of a diet high in junk food on society, including both health and economic impacts. Suggest potential policy interventions that could address this issue.
+   Student Answer : No answer provided.
+   Score          : 0 / 10
+   Feedback       : No answer was provided by the student. All five key points required for this question remain unaddressed: healthcare burden from diet-related diseases, productivity loss from chronic conditions, policy solutions like taxation/subsidies, nutrition labeling and awareness campaigns, and regulation of advertising to children. A score of 0/10 is awarded as there is no content to evaluate.
+   AI Confidence  : 100%
+
+============================================================
+END OF REPORT
+============================================================

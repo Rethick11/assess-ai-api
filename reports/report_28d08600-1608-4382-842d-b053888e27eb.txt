@@ -1,0 +1,64 @@
+============================================================
+ASSESSMENT REPORT — AssessAI
+============================================================
+Student : rethicccc
+Email   : student1@gmail.com
+Date    : 6/5/2026, 5:28:51 pm
+------------------------------------------------------------
+TOTAL SCORE : 0 / 35
+MCQ Score   : 0 / 5
+Para Score  : 0 / 30
+============================================================
+
+SECTION A — MCQ RESULTS
+
+Q1. Which of the following is NOT a common health risk associated with regular consumption of junk food?
+   Student Answer : Obesity
+   Correct Answer : Improved bone density
+   Result         : ✗ Wrong
+
+Q2. What is the primary reason junk foods are considered unhealthy?
+   Student Answer : They are expensive
+   Correct Answer : They are high in calories but low in nutritional value
+   Result         : ✗ Wrong
+
+Q3. Which ingredient found in most junk foods can lead to high blood pressure when consumed in excess?
+   Student Answer : Fiber
+   Correct Answer : Sodium
+   Result         : ✗ Wrong
+
+Q4. Trans fats, commonly found in junk food, are particularly harmful because they:
+   Student Answer : Increase good cholesterol and decrease bad cholesterol
+   Correct Answer : Increase bad cholesterol and decrease good cholesterol
+   Result         : ✗ Wrong
+
+Q5. Which of the following is considered a healthier alternative to junk food snacking?
+   Student Answer : Potato chips
+   Correct Answer : Fresh fruits and nuts
+   Result         : ✗ Wrong
+
+============================================================
+
+SECTION B — PARAGRAPH RESULTS
+
+Q1. Discuss the impact of junk food consumption on children's health and academic performance. What measures can parents and schools take to promote healthier eating habits?
+   Student Answer : Discuss the impact of junk food consumption on children's health and academic performance. What measures can parents and schools take to promote healthier eating habits?
+   Score          : 0 / 10
+   Feedback       : The student submitted the question itself as their answer without providing any actual response. No key points from the rubric were addressed. The submission demonstrates no effort to answer the question about junk food's impact on children's health and academic performance, nor any discussion of measures parents and schools can take.
+   AI Confidence  : 100%
+
+Q2. Explain why junk foods are often described as 'addictive' and analyze the role of food companies in making these products appealing to consumers.
+   Student Answer :  Explain why junk foods are often described as 'addictive' and analyze the role of food companies in making these products appealing to consumers.
+   Score          : 0 / 10
+   Feedback       : The student did not provide an answer. They only repeated the question without any explanation or analysis of why junk foods are addictive or the role of food companies in making these products appealing.
+   AI Confidence  : 100%
+
+Q3. Evaluate the long-term consequences of a diet high in junk food on society, including both health and economic impacts. Suggest potential policy interventions that could address this issue.
+   Student Answer :  Evaluate the long-term consequences of a diet high in junk food on society, including both health and economic impacts. Suggest potential policy interventions that could address this issue.
+   Score          : 0 / 10
+   Feedback       : The student submitted no answer. The response only repeats the question without providing any content addressing health consequences, economic impacts, or policy interventions. No key points from the rubric were addressed.
+   AI Confidence  : 100%
+
+============================================================
+END OF REPORT
+============================================================

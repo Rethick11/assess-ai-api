@@ -1,0 +1,74 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+  // output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id         String    @id @default(uuid())
+  uid        String    @unique
+  email      String    @unique
+  name       String
+  role       Role
+  created_at DateTime  @default(now())
+  last_login DateTime?
+  tests      Test[]
+
+  @@map("users")
+  submissions Submission[]
+}
+
+model Test {
+  id          String   @id @default(uuid())
+  teacher_id  String
+  prompt      String
+  mcq_count   Int
+  para_count  Int
+  questions   Json     // now includes rubric for paragraph questions
+  status      String   @default("draft")
+  created_at  DateTime @default(now())
+
+  teacher     User     @relation(fields: [teacher_id], references: [id])
+  submissions Submission[]
+
+  @@map("tests")
+}
+
+enum Role {
+  teacher
+  student
+}
+
+
+model Submission {
+  id              String   @id @default(uuid())
+  student_id      String
+  test_id         String
+  answers         Json
+  
+  ai_grade        Int?
+  ai_feedback     String?
+  ai_confidence   Float?
+  
+  human_grade     Int?
+  human_feedback  String?
+  
+  is_final        Boolean  @default(false)
+  grading_status  String   @default("pending")
+  
+  submitted_at    DateTime @default(now())
+  graded_at       DateTime?
+
+  student         User     @relation(fields: [student_id], references: [id])
+  test            Test     @relation(fields: [test_id], references: [id])
+
+  @@map("submissions")
+}
